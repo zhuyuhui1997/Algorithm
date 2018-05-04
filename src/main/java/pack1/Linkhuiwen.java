@@ -1,8 +1,5 @@
 package pack1;
 
-import java.util.LinkedList;
-import java.util.Random;
-import java.util.Scanner;
 
 /*
 * author kl
